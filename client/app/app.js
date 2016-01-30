@@ -9,7 +9,6 @@ angular.module('projectSectoracademicoApp', [
   'ngSanitize',
   'btford.socket-io',
   'ui.router',
-  'ui.bootstrap',
   'validation.match'
 ])
   .config(function($urlRouterProvider, $locationProvider) {
